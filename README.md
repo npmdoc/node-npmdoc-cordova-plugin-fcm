@@ -1,4 +1,7 @@
-# api documentation for  [cordova-plugin-fcm (v2.1.1)](https://github.com/fechanique/cordova-plugin-fcm#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-fcm.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-fcm) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-fcm.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-fcm)
+# npmdoc-cordova-plugin-fcm
+
+#### api documentation for  [cordova-plugin-fcm (v2.1.1)](https://github.com/fechanique/cordova-plugin-fcm#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-fcm.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-fcm) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-fcm.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-fcm)
+
 #### Google Firebase Cloud Messaging Cordova Push Plugin
 
 [![NPM](https://nodei.co/npm/cordova-plugin-fcm.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-fcm)
